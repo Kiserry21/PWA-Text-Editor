@@ -58,3 +58,12 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 
 THEN I should have proper build scripts for a webpack application
+
+# Mock-Up
+
+![alt text](./images/SS1.png)
+![alt text](./images/SS2.png)
+
+# Deployed URL
+
+https://boiling-wildwood-28480.herokuapp.com/
